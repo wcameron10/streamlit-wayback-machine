@@ -1,5 +1,5 @@
 # streamlit-wayback-machine
-A Simple Streamlit App to query Wayback Machine API by date range. 
+A Simple Streamlit App to query Wayback Machine API by URL and date range. 
 
 # Dependancies
 ```
